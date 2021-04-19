@@ -5,3 +5,5 @@ settings():
     user.mouse_enable_pop_stops_scroll = 0
 	#enable pop click with 'control mouse' mode
 	user.mouse_enable_pop_click = 0
+
+<phrase>: skip()
