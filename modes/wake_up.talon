@@ -3,7 +3,6 @@ mode: all
 -
 ^(welcome | I'll come) back$:
     user.mouse_wake()
-    user.history_enable()
     user.talon_mode()
 ^sleep all [<phrase>]$:
     user.switcher_hide_running()

@@ -26,7 +26,7 @@ poke:
 	key(right)
 	key(backspace)
 (pad | padding): 
-	insert("  ") 
+	insert(" ") 
 # 	key(left)
 slap: edit.line_insert_down()
 
