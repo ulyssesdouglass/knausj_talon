@@ -1,5 +1,5 @@
-#(jay son | jason ): "json"
-#(http | htp): "http"
+(jay son | jason ): "json"
+(http | htp): "http://"
 #tls: "tls"
 #M D five: "md5"
 #word (regex | rejex): "regex"
