@@ -24,7 +24,10 @@ mod.apps.chrome = """
 os: linux
 and app.name: Google-chrome
 """
-
+mod.apps.chrome = """
+os: mac
+and app.bundle: io.island.Island
+"""
 ctx.matches = r"""
 app: chrome
 """
