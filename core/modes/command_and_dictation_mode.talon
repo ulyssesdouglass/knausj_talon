@@ -1,8 +1,10 @@
 mode: command
 mode: dictation
 -
-mac talk:
-    speech.disable()
+^mac talk$:
+    mode.enable("sleep")
+    mode.disable("dictation")
+    mode.disable("command")
     key(cmd-0)
 ^dictation mode$:
     mode.disable("sleep")
