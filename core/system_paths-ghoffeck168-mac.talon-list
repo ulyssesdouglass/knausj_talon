@@ -1,0 +1,16 @@
+list: user.system_paths
+hostname: ghoffeck168-mac
+-
+user: /Users/ghoffecker
+desktop: /Users/ghoffecker/Desktop
+desk: /Users/ghoffecker/Desktop
+documents: /Users/ghoffecker/Documents
+docks: /Users/ghoffecker/Documents
+downloads: /Users/ghoffecker/Downloads
+music: /Users/ghoffecker/Music
+pictures: /Users/ghoffecker/Pictures
+videos: /Users/ghoffecker/Videos
+talon home: /Users/ghoffecker/.talon
+talon recordings: /Users/ghoffecker/.talon/recordings
+talon user: /Users/ghoffecker/.talon/user
+home: /Users/ghoffecker
